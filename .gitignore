@@ -1,0 +1,7 @@
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+
+# Local server and package artifacts
+node_modules/
+npm-debug.log*
